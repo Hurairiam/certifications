@@ -1,6 +1,6 @@
-# 🤖 Everyday Ethics for Artificial Intelligence
+# 🤖 Everyday Ethics for Artificial Intelligence Certificate
 
-Certificate of completion for the **Everyday Ethics for Artificial Intelligence** course, issued by **IBM SkillsBuild**, completed on **05 September 2025**.
+This folder contains my certificate of completion from **Everyday Ethics for Artificial Intelligence**, an eLearning course offered by **IBM SkillsBuild**, completed on **05 September 2025**.
 
 ## 📜 Certificate
 [📄 View Certificate](https://github.com/Hurairiam/certifications/blob/main/Everyday%20Ethics%20for%20Artificial%20Intelligence%20by%20IBM/Everyday%20Ethics%20for%20Artificial%20Intelligence%20Certificate.pdf)
@@ -8,7 +8,8 @@ Certificate of completion for the **Everyday Ethics for Artificial Intelligence*
 ---
 
 ## 🧠 Course Overview
-This short eLearning course introduced the foundations of **AI ethics**, highlighting why ethical principles must be integrated into the **design, development, and deployment** of artificial intelligence systems from the very beginning.
+
+**Everyday Ethics for Artificial Intelligence** introduced the foundations of **AI ethics**, highlighting why ethical principles must be integrated into the **design, development, and deployment** of artificial intelligence systems from the very beginning.
 
 ### 📘 Key Topics Covered:
 - The importance of **embedding ethics in AI creation**  
@@ -25,5 +26,4 @@ This short eLearning course introduced the foundations of **AI ethics**, highlig
 
 ---
 
-📌 _Certificate Issued: **05 September 2025**_  
-
+📌 _Certificate Issued on: **05 September 2025**_  

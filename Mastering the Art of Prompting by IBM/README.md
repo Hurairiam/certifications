@@ -1,4 +1,4 @@
-# 📝 Mastering the Art of Prompting Certificate
+# 📝 Mastering the Art of Prompting by IBM
 
 This repository contains my certificate of completion for the **Mastering the Art of Prompting** course, issued by **IBM SkillsBuild**, completed on **05 September 2025**.
 

@@ -1,4 +1,4 @@
-# 🤖 Everyday Ethics for Artificial Intelligence Certificate
+# 🤖 Everyday Ethics for Artificial Intelligence by IBM
 
 This folder contains my certificate of completion from **Everyday Ethics for Artificial Intelligence**, an eLearning course offered by **IBM SkillsBuild**, completed on **05 September 2025**.
 

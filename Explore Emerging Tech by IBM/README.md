@@ -4,12 +4,14 @@ This folder contains my certificate of completion from **Explore Emerging Tech**
 
 ## 📜 Certificates
 
+- [📄 Explore Emerging Tech Certificate](https://github.com/Hurairiam/certifications/blob/main/Explore%20Emerging%20Tech%20by%20IBM/Explore%20Emerging%20Tech%20Certificate.pdf)  
+
+
 - [📄 Exploring Data](https://github.com/Hurairiam/certifications/blob/main/Explore%20Emerging%20Tech%20by%20IBM/Exploring%20Data%20Certificate.pdf)  
 - [📄 Exploring Artificial Intelligence](https://github.com/Hurairiam/certifications/blob/main/Explore%20Emerging%20Tech%20by%20IBM/Exploring%20AI%20Certificate.pdf)  
 - [📄 Exploring Cloud Computing](https://github.com/Hurairiam/certifications/blob/main/Explore%20Emerging%20Tech%20by%20IBM/Exploring%20Cloud%20Computing%20Certificate.pdf)  
 - [📄 Exploring Cybersecurity](https://github.com/Hurairiam/certifications/blob/main/Explore%20Emerging%20Tech%20by%20IBM/Exploring%20Cybersecurity%20Certificate.pdf)  
 - [📄 Exploring Quantum Computing](https://github.com/Hurairiam/certifications/blob/main/Explore%20Emerging%20Tech%20by%20IBM/Exploring%20Quantum%20Computing%20Certificate.pdf)  
-- [📄 Explore Emerging Tech Certificate](https://github.com/Hurairiam/certifications/blob/main/Explore%20Emerging%20Tech%20by%20IBM/Explore%20Emerging%20Tech%20Certificate.pdf)  
 
 ![Badge](https://github.com/Hurairiam/certifications/blob/main/Explore%20Emerging%20Tech%20by%20IBM/Explore%20Emerging%20Tech%20Badge.png)
 

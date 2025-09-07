@@ -1,4 +1,4 @@
-# 📝 Mastering the Art of Prompting Certificate
+# 📝 Mastering the Art of Prompting by IBM
 
 This folder contains my certificate of completion from **Mastering the Art of Prompting**, a skills course offered by **IBM SkillsBuild**, completed on **05 September 2025**.
 

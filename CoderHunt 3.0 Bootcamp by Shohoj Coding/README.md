@@ -1,6 +1,6 @@
 # 🎯 CoderHunt 3.0 Bootcamp Certificate
 
-This repository contains my certificate of completion from **CoderHunt 3.0: Step Into the World of Competitive Programming**, a 14-day online crash course powered by **Shohoj Coding**, held from **2 July 2025 to 16 July 2025**.
+This folder contains my certificate of completion from **CoderHunt 3.0: Step Into the World of Competitive Programming**, a 14-day online crash course powered by **Shohoj Coding**, held from **2 July 2025 to 16 July 2025**.
 
 ## 📜 Certificate
 [📄 View Certificate](https://github.com/Hurairiam/certifications/blob/main/CoderHunt%203.0%20Bootcamp%20by%20Shohoj%20Coding/CoderHunt-3.0-Certificate.pdf)

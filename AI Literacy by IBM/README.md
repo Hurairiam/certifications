@@ -4,9 +4,10 @@ This folder contains my certificate of completion from **AI Literacy**, a founda
 
 ## 📜 Certificates
 
-- [📄 AI Literacy Certificate](https://github.com/Hurairiam/certifications/blob/main/AI%20Literacy%20by%20IBM/Ai%20Literact%20Certificate.pdf)  
+- [📄 AI Literacy Certificate](https://github.com/Hurairiam/certifications/blob/main/AI%20Literacy%20by%20IBM/Ai%20Literact%20Certificate.pdf)
+- [📄 Exploring Artificial Intelligence](https://github.com/Hurairiam/certifications/blob/main/Explore%20Emerging%20Tech%20by%20IBM/Exploring%20AI%20Certificate.pdf) 
 - [📄 Interacting with AI](https://github.com/Hurairiam/certifications/blob/main/AI%20Literacy%20by%20IBM/Interacting%20with%20AI%20Certificate.pdf)  
-- [📄 Exploring Artificial Intelligence](https://github.com/Hurairiam/certifications/blob/main/Explore%20Emerging%20Tech%20by%20IBM/Exploring%20AI%20Certificate.pdf)  
+ 
 
 ![Badge](https://github.com/Hurairiam/certifications/blob/main/AI%20Literacy%20by%20IBM/Ai%20Literact%20Badge.png)
 

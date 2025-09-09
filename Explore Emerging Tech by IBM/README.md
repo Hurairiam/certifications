@@ -1,6 +1,6 @@
 # 🚀 Explore Emerging Tech by IBM
 
-This folder contains my certificate of completion from **Explore Emerging Tech**, a foundational program offered by **IBM SkillsBuild**, completed in **September 2025**. The program covered five key emerging technologies that are shaping today’s digital world: **Data, Artificial Intelligence (AI), Cloud Computing, Cybersecurity, and Quantum Computing**.
+This folder contains my certificate of completion from **Explore Emerging Tech**, a foundational program offered by **IBM SkillsBuild**, completed in **7 September 2025**. The program covered five key emerging technologies that are shaping today’s digital world: **Data, Artificial Intelligence (AI), Cloud Computing, Cybersecurity, and Quantum Computing**.
 
 ## 📜 Certificates
 
@@ -61,5 +61,5 @@ This folder contains my certificate of completion from **Explore Emerging Tech**
 
 ---
 
-📌 _Certificates Issued: **September 2025**_  
+📌 _Certificates Issued: **7 September 2025**_  
 

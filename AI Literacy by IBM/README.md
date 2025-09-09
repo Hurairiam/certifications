@@ -1,6 +1,6 @@
 # 🚀 AI Literacy by IBM
 
-This folder contains my certificate of completion from **AI Literacy**, a foundational program offered by **IBM SkillsBuild**, completed in **September 2025**. The program introduces learners to artificial intelligence, its concepts, enabling technologies, benefits, applications across industries, and hands-on practice using AI responsibly.
+This folder contains my certificate of completion from **AI Literacy**, a foundational program offered by **IBM SkillsBuild**, completed in **7 September 2025**. The program introduces learners to artificial intelligence, its concepts, enabling technologies, benefits, applications across industries, and hands-on practice using AI responsibly.
 
 ## 📜 Certificates
 
@@ -41,5 +41,5 @@ This folder contains my certificate of completion from **AI Literacy**, a founda
 
 ---
 
-📌 _Certificates Issued: **September 2025**_
+📌 _Certificates Issued: **7 September 2025**_
 

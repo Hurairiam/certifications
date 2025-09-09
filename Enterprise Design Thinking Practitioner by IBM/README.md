@@ -1,6 +1,6 @@
 # 🚀 Enterprise Design Thinking Practitioner by IBM
 
-This folder contains my certificate of completion from **Enterprise Design Thinking Practitioner**, a professional program offered by **IBM SkillsBuild**, completed in **07 September 2025**. The program teaches the value and framework of **Enterprise Design Thinking** to solve complex, human-centered problems at scale.
+This folder contains my certificate of completion from **Enterprise Design Thinking Practitioner**, a professional program offered by **IBM SkillsBuild**, completed in **09 September 2025**. The program teaches the value and framework of **Enterprise Design Thinking** to solve complex, human-centered problems at scale.
 
 ## 📜 Certificates
 
@@ -35,5 +35,5 @@ This folder contains my certificate of completion from **Enterprise Design Think
 
 ---
 
-📌 _Certificate Issued: **07 September 2025**_
+📌 _Certificate Issued: **09 September 2025**_
 

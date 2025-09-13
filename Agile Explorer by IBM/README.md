@@ -8,7 +8,8 @@ This folder contains my certificate of completion from **Agile Explorer**, a fou
 - [📄 A Taste of Agile Certificate](https://github.com/Hurairiam/certifications/blob/main/Agile%20Explorer%20by%20IBM/A%20Taste%20of%20Agile%20Certificate.pdf)  
 - [📄 Agile Operations Fundamentals Certificate](https://github.com/Hurairiam/certifications/blob/main/Agile%20Explorer%20by%20IBM/Agile%20Operations%20Fundamentals%20Certificate.pdf)  
 - [📄 Agile Program Fundamentals Certificate](https://github.com/Hurairiam/certifications/blob/main/Agile%20Explorer%20by%20IBM/Agile%20Program%20Fundamentals%20Certificate.pdf)  
-- [🛡️ Badge](https://github.com/Hurairiam/certifications/blob/main/Agile%20Explorer%20by%20IBM/Agile%20Explorer%20Badge.png)  
+
+![Badge](https://github.com/Hurairiam/certifications/blob/main/Agile%20Explorer%20by%20IBM/Agile%20Explorer%20Badge.png)
 
 ---
 
@@ -51,4 +52,3 @@ This folder contains my certificate of completion from **Agile Explorer**, a fou
 ---
 
 📌 _Certificate & Badge Issued: **13 September 2025**_  
-

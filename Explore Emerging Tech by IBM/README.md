@@ -61,5 +61,5 @@ This folder contains my certificate of completion from **Explore Emerging Tech**
 
 ---
 
-📌 _Certificate and Badge Issued: **7 September 2025**_  
+📌 _Certificate & Badge Issued: **7 September 2025**_  
 

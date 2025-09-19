@@ -5,6 +5,7 @@ This repository contains my professional certificates along with detailed course
 ## 📚 Certificates
 
 - 📄 [Explore Emerging Tech by IBM](https://github.com/Hurairiam/certifications/blob/main/Explore%20Emerging%20Tech%20by%20IBM/README.md)  
+- 📄 [Artificial Intelligence Fundamentals by IBM](https://github.com/Hurairiam/certifications/blob/main/Artificial%20Intelligence%20Fundamentals%20by%20IBM/README.md)  
 - 📄 [AI Literacy by IBM](https://github.com/Hurairiam/certifications/blob/main/AI%20Literacy%20by%20IBM/README.md)  
 - 📄 [Introduction to Generative AI by IBM & Google](https://github.com/Hurairiam/certifications/blob/main/Introduction%20to%20Generative%20AI%20by%20Google%20and%20IBM/README.md)  
 - 📄 [Mastering the Art of Prompting by IBM](https://github.com/Hurairiam/certifications/blob/main/Mastering%20the%20Art%20of%20Prompting%20by%20IBM/README.md)  

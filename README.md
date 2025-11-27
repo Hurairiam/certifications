@@ -13,4 +13,5 @@ This repository contains my professional certificates along with detailed course
 - 📄 [Everyday Ethics for Artificial Intelligence by IBM](https://github.com/Hurairiam/certifications/blob/main/Everyday%20Ethics%20for%20Artificial%20Intelligence%20by%20IBM/README.md)  
 - 📄 [Agile Explorer by IBM](https://github.com/Hurairiam/certifications/blob/main/Agile%20Explorer%20by%20IBM/README.md)  
 - 📄 [Enterprise Design Thinking Practitioner by IBM](https://github.com/Hurairiam/certifications/blob/main/Enterprise%20Design%20Thinking%20Practitioner%20by%20IBM/README.md)  
+- 📄 [Introduction to 2D Animation by Grameenphone Academy](https://github.com/Hurairiam/certifications/blob/main/Introduction%20to%202D%20Animation%20by%20Grameenphone%20Academy/README.md)  
 - 📄 [CoderHunt 3.0 Bootcamp by Shohoj Coding](https://github.com/Hurairiam/certifications/blob/main/CoderHunt%203.0%20Bootcamp%20by%20Shohoj%20Coding/README.md)  

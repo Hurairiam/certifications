@@ -4,6 +4,7 @@ This repository contains my professional certificates along with detailed course
 
 ## 📚 Certificates
 
+- 📄 [Fortinet Certified Fundamentals in Cybersecurity](https://github.com/Hurairiam/certifications/blob/main/Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity/readme.md)
 - 📄 [Explore Emerging Tech by IBM](https://github.com/Hurairiam/certifications/blob/main/Explore%20Emerging%20Tech%20by%20IBM/README.md)  
 - 📄 [Artificial Intelligence Fundamentals by IBM](https://github.com/Hurairiam/certifications/blob/main/Artificial%20Intelligence%20Fundamentals%20by%20IBM/README.md)  
 - 📄 [AI Literacy by IBM](https://github.com/Hurairiam/certifications/blob/main/AI%20Literacy%20by%20IBM/README.md)  

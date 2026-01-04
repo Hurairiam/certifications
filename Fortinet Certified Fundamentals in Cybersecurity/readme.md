@@ -12,7 +12,7 @@ This folder contains my certificate of completion from **Fortinet Certified Fund
 
 [**Technical Introduction to Cybersecurity 3.0**](https://github.com/Hurairiam/certifications/blob/main/Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity/Technical%20Introduction%20to%20Cybersecurity%203.pdf) - [Badge](https://github.com/Hurairiam/certifications/blob/main/Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity/Badge%20Technical%20Introduction%20to%20Cybersecurity%203.png) | [IBM Certificate](https://github.com/Hurairiam/certifications/blob/main/Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity/IBM%20FCF%20-%20Technical%20Introduction%20to%20Cybersecurity.pdf)  
 
-<img src="https://github.com/Hurairiam/certifications/blob/main/Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity/Badge%20Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity.png" width="300" alt="FCF Badge">
+<img src="https://github.com/Hurairiam/certifications/blob/main/Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity/Badge%20Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity.png" width="600" alt="FCF Badge">
 
 ---
 
